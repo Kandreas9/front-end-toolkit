@@ -4,7 +4,7 @@
 			Front-End Starter Kit
 		</h1>
 		<div class="home-title-shadow"></div>
-		<router-link class="home-btn" to="/about">Get Started</router-link>
+		<router-link class="home-btn" to="/kit">Get Started</router-link>
 	</header>
 </template>
 

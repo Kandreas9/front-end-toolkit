@@ -21,11 +21,13 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	background-color: var(--bg-color);
+	min-width: 100vw;
+	overflow: hidden;
 }
 
 #app {
 	min-height: 100vh;
-	width: 100vw;
+	width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
